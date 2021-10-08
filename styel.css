@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+    background-color:darkcyan;
+    color:white;
+}
+#title {
+    text-decoration:underline;
+    background-color:aquamarine;
+    border-radius: 10px;
+}
+
+.pl {
+    background-color:lightcoral;
+    border-radius:10px;
+}
